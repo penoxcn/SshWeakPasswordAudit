@@ -1,0 +1,15 @@
+cisco:
+cisco:cisco
+cisco:123456
+root:root
+root:password
+root:root123
+root:default
+admin:password
+admin:admin
+admin:123456
+admin:xxx@2017
+admin:xxx@2016
+admin:xxx@2015
+admin:Password1
+test:test
