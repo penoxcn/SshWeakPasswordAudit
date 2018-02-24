@@ -1,0 +1,27 @@
+connecting 10.46.27.*:22
+#############################
+[> Hi, my name is :     ÎÞÎý**1002V
+Here is what I know about myself:
+Model:               RealPresence Group 500
+Serial Number:       8G172647AD67CV
+Software Version:    6.1.1
+Build Information:   370109
+Contact Number: <] False True 
+
+connecting 10.70.92.*:22
+#############################
+[> +========================+
+|   Web Card Main Menu   |
++========================+
+Web Card Version 01.12.18l
+MAC Address 00-30-ab-28-dd-20
+[1].User Manager
+[2].TCP/IP Setting
+[3].Network Parameter
+[4].Time Server
+[5].Soft Restart
+[6].Reset All To Default
+[z].Exit Without Save
+[0].Save And Exit
+
+Please Enter Your Choice =>  <] False True 
