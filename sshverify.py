@@ -52,6 +52,8 @@ def ssh2(host, port, username, password):
             return True,'LINUX/UNIX'
         if banner.find('smashclp')>=0:
             return True,'IPMI/INSPUR'
+        if banner.find('Web Card Main Menu')>=0:
+            return False,'UPSCARD'
         return True,banner.strip()
     except Exception as e:
         print '>>> %s\terror: %s'%(host, str(e))
